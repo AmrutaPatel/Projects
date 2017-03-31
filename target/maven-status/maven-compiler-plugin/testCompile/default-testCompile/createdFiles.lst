@@ -1,0 +1,15 @@
+com\testing\testcases\ContactPageTests.class
+com\redflex\amruta\ContactPage.class
+com\redflex\amruta\LoginPage.class
+com\testing\testcases\BaseTestSuite.class
+com\testing\util\ReadExcel.class
+com\redflex\amruta\HomePage.class
+com\redflex\amruta\ShopPage.class
+com\redflex\amruta\CartPage.class
+com\testing\demo\LoginPage.class
+com\testing\demo\ContactPage.class
+com\redflex\amruta\BasePage.class
+com\testing\demo\BasePage.class
+com\testing\demo\ShopPage.class
+com\testing\demo\CartPage.class
+com\testing\demo\HomePage.class
