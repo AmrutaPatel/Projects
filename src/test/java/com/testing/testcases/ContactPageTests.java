@@ -5,7 +5,6 @@ package com.testing.testcases;
 import org.junit.*;
 //import org.junit.Assert;
 import org.junit.Test;
-import org.openqa.selenium.By;
 //import static org.junit.Assert.assertEquals;
 //import static org.junit.Assert.assertNotNull;
 import com.testing.demo.BasePage;
